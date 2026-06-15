@@ -16,7 +16,7 @@ A Python-based currency converter that fetches real-time exchange rates and supp
 
 ```bash
 .
-├── sit.py
+├── code.py
 ├── requirements.txt
 └── README.md
 ```
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-python sit.py
+python code.py
 ```
 
 You will see:
